@@ -1,0 +1,17 @@
+Package: WTCRadio
+Type: Package
+Title: Data on Radio Communication Dynamics in the World Trade Center Disaster
+Version: 1.0
+Date: 2023-05-11
+Authors@R: c(person("Carter T.", "Butts", role=c("aut","cre"), email="buttsc@uci.edu"),
+             person("Miruna G.", "Petrescu-Prahova", role="aut"),
+             person("B. Remy", "Cross", role="aut"))
+Author: Carter T. Butts [aut, cre],
+    Miruna G. Petrescu-Prahova [aut],
+    B. Remy Cross [aut]
+Maintainer: Carter T. Butts <buttsc@uci.edu>
+Depends: R (>= 3.5.0), network
+Suggests: sna
+Description: Data on interpersonal radio communication within several units responding to the World Trade Center disaster, manually coded from archival materials.  This package includes both event sequence data (radio calls) and networks of calls among named communicants.
+License: GPL (>=3)
+LazyLoad: yes
