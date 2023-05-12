@@ -14,7 +14,7 @@ bibentry(bibtype = "Article",
 	year = 2023,
 	title = "{Modeling Complex Interactions in a Disrupted Environment: Relational Events in the {WTC} Response}",
         journal = "Network Science",
-        doi = "10.1017/nws.2023.4"
+        doi = "10.1017/nws.2023.4",
         author = c(
          person("Scott L.", "Renshaw"),
          person("Selena M.", "Livas"),
